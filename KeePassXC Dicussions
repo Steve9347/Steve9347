@@ -1,0 +1,17 @@
+- 👋 Hi, I’m @Steve9347
+- 👀  I installed KeePassXC 2.4.3 for the usual security reasons on my old Dell laptop running Linux Mint 20.3. 2.4.3 was offered by the software manager  and seemed to enjoy a good reputation.
+
+I got into problems right away from confusing databases and groups, and in the process deleted or lost Root as the primary/default database.  In retrospect, I would have been fine with Root>Passwords/Recycle Bin, since I only have 50 or 60 websites that I log into. I manually filled out the entries, since I didn’t have that many. Seems I have lost those as well.
+
+My database/group/entry trees (if that’s the right word) and couldn’t get it to work. I tried removing and relaunching the program several times, thinking that it would let me start over from scratch, but that didn’t stop the error messages referencing one or more corrupted files or the icons at website logins saying KeePassXC was not connected. I haven’t been able to find the probably corrupted files since getting messages that no .kbdx files to be found. 
+
+While I would like to get this version of KeePassXC working (or completely off the machine), I’m not insistent on using it or KeePassXC alltogether, if there is something easier or more intuitive that provides about the same level of security for an on-computer vault/manager. Would anyone kindly care to hep me?
+  Thank you.
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+Steve9347/Steve9347 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
